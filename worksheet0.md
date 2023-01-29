@@ -1,5 +1,5 @@
 #Worksheet 1: Introductions
-Name:
+Name: AJ Wint
 github link to this markdown file due 1/29/2023 at 11:59 pm
 10pts
 
@@ -21,13 +21,16 @@ Skim this article https://www.markdownguide.org/basic-syntax/ to familiarize you
 
 ## Review
 1. What is your favorite CS topic you've learned so far?
-
+    My favorite CS topic was coding games in PyCharm.
 ## Exploration
 2. What is the most difficult CS topic you've learned so far?
-
+    I'd probably say recursion, as it took me a while to try and understand it, and I somewhat still don't.
 ## Challenge
 3. What do you most look forward to learning this semester?
+    I'm looking forward to having a decent understanding of data structures and become a bit better at programming without getting stuck as often.
 
 4. What tools and workflow are you going to use to do your projects and assignments for this class?
+    I'm going to use **Xcode** for my projects and assignments, as I'd like to get more accustomed with Apple's *software*, given my shift to Mac.
 5. For #4 above, add some formatting styles in markdown for practice. For example: You can try bullet points, tables, heading sizes
 6. Find an image on the internet and embed it into this markdown file using a reasonable size that fits on the page. Add a link to the image so that it is clickable and goes to any website of your choice.
+! [Image of a Dolphin] (https://www.georgiaaquarium.org/wp-content/uploads/2018/08/common-bottlenose-dolphin.jpg)
